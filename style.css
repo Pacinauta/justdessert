@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#just{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#dessert{
+    color: rgb(210, 126, 29);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    margin-left: 30px;
+}
+#Join{
+margin: 10px;
+background-color: rgb(11, 11, 150);
+width: 60px;
+height: 30px;
+}
+#login{
+    margin: 10px;
+    background-color: rgb(195, 95, 14);
+    width: 60px;
+height: 30px;
+}
+#boton{
+    border-radius: 30px;
+    border: 1px solid black;
+    width: 300px;
+    height: 30px;
+}
+#go{
+    background-color: rgb(13, 73, 126);
+    color: white;
+    border-radius: 350px;
+}
+.nap{
+    background-color: rgb(39, 39, 39);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+
+}
+.cake{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.icecream{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+}
+.cookie{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+}
+.pie{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.uno{
+    display: flex;
+    justify-content: space-around;
+}
+.nap2{
+    background-color: rgb(239, 183, 163);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 200px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    justify-content: space-around;
+}
+.columna{
+    display: flex;
+    flex-direction: column;
+    border: 20px solid rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+.fondito{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 100px;
+    
+}
+#title{
+    color: blue;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.subtitle{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 400px;
+}
+#tart{
+    width: 800px;
+    height: 600px;
+}
+#title2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.by{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#yuri{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#macarons{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#emilie{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#brulee{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#maria{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#see{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cora{
+    width: 20px;
+    margin-left: 700px;
+}
+#corazon{
+    width: 20px;
+    margin-left: 400px;
+}
+#aumentar{
+    margin-left: 410px;
+}
+#coraz{
+    width: 20px;
+    margin-left: 400px;
+
+}
+#alzar{
+    margin-left: 410px;
+}
+#valor{
+    margin-left: 700px;
+}
